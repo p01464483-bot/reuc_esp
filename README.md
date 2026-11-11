@@ -17,6 +17,15 @@
 
 </div>
 
+## Sobre este fork
+
+Este fork nace porque el autor del proyecto original se ha negado a implementar soporte para otros idiomas dentro del juego. La versión NTSC-U compatible con el port ya incluye recursos de localización españoles (`*_sp`) y fuentes para esos caracteres, pero el juego no ofrece una opción para cargarlos. La petición de soporte está documentada en el [issue #21](https://github.com/solleo95/reuc-recomp/issues/21).
+
+Este es un proyecto independiente para desarrollar y publicar el port con textos en español. El trabajo se centrará en seleccionar correctamente los recursos y fuentes españoles y en asegurar que las tildes y la `ñ` se muestren bien. **El soporte está en desarrollo; todavía no se afirma aquí que la traducción esté implementada.** No se pretende abrir una pull request al proyecto original.
+
+Este fork parte de [solleo95/reuc-recomp](https://github.com/solleo95/reuc-recomp), cuyo código está bajo GPL-3.0. Se conservan sus avisos de licencia y créditos. Este repositorio no está afiliado al autor original, Capcom ni Nintendo, y no incluye archivos del juego: cada persona necesita su propia copia.
+
+---
 ## Early build: please read
 
 > [!WARNING]
